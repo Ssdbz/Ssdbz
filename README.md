@@ -50,7 +50,7 @@ Applied SQL to analyze booking data and identify revenue trends and demand patte
 ### 🤝 Let’s Connect
 
 📧 Email: edu.souvik2050@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/souviksen021  
+🔗 LinkedIn: www.linkedin.com/in/souvik-sen0021  
 💻 GitHub: You’re already here!
 
 ### Open to Data Analyst opportunities
